@@ -1,3 +1,6 @@
+Note: Sometimes Jupyter Notebook files do not render on Github, paste the link in nbviewer if you cannot open the .ipynb file. https://nbviewer.jupyter.org/
+
+------
 # what-time-to-post
 I recommend to users what time is best for posting to a popular website to maximize engagement.
 
